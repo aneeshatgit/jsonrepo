@@ -1,0 +1,8 @@
+{
+  data: {
+    clubs: [
+      {title: "The Bier Library", desc: "The coolest brewery in town!", balance: "100", id: 1, pic: "/assets/TBL.jpg"},
+      {title: "Windmill Craftworks", desc: "Unravelling the mystery!", balance: "200", id: 2, pic: "/assets/windmill.jpg"}
+    ]
+  }
+}
